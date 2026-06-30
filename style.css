@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+    color: white;
+    padding: 0px 150px 0px 150px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: cyan;
+}
+h2{
+    font-weight: bolder;
+    color: skyblue;
+    text-shadow: 0px 0px 20px skyblue;
+}
+#container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+#contactBox{
+    border-radius: 1px solid black;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.options{
+    box-shadow: 0px 0px 20px 2px blue;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+
+#gacIcon{
+    width: 150px;
+    height: 75px;
+    border-radius: 10px;
+}
+#wpIcon{
+    width: 150px;
+    height: 75px;
+    border-radius: 10px;
+}
+#gacTitle{
+    display: flex;
+    flex-direction: row;
+}
+.school{
+    margin: 0px;
+}
+
+#highSchool{
+    margin-bottom: 10px;
+}
+
+.location{
+    display: flex;
+    flex-direction: column;
+    line-height: 8px;
+    margin-left: 15px;
+}
+

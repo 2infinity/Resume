@@ -1,0 +1,11 @@
+@media (max-width: 1050px){
+    body{
+        padding: 0px;
+    }
+}
+@media (max-width: 550px){
+    .location{
+        font-size: 10px;
+        width: 75px;
+    }
+}
