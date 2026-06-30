@@ -9,3 +9,8 @@
         width: 75px;
     }
 }
+@media (max-width: 400px){
+    h1{
+        margin-right: 5px;
+    }
+}
