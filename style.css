@@ -6,7 +6,10 @@ body{
 h1{
     text-align: center;
     text-decoration: underline;
-    color: cyan;
+    color: skyblue;
+    font-weight: bolder;
+    font-size: 75px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 h2{
     font-weight: bolder;
